@@ -1,7 +1,7 @@
 # Periodic-Table
 Periodic table of the atoms
 
-### Link - [Click here to watch Demonstration](https://heet-kumar.github.io/Periodic-Table/index.hrml)
+### Link - [Click here to watch Demonstration](https://heet-kumar.github.io/Periodic-Table/index.html)
 
 ## Task - To draw Periodic table using table tag in HTML and CSS
 
